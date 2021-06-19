@@ -2,7 +2,7 @@
 Performaning analysis on kickstarter data to uncover trends
 
 # Outcomes Based on Goals
-![goals](Outcomes_vs_Goals.png)
+![goals](Outcomes%20vs%20Goals.png)
 
 # Theater Outcomes by Launch Date
 ![date](Theater_Outcomes_vs_Launch.png)
