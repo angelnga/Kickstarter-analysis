@@ -30,7 +30,7 @@ Result:<br>
 Based on this graph, you can see the percentage of the outcomes in each goal range.<br>
 This graph could causes misleading and not efficient to read. 
 For example, goal range of 45000 to 49999 has only 1 project in total sample size, and is a failed result, which shifted the graph with a 100% fail rate.
-But that doesn't mean this goal range will always fail, as the sample size is too small to make an conclusion.<br>
+But that doesn't mean this goal range will always fail, as the sample size is too small to make a conclusion.<br>
 In this case, an additional stacked column chart would be helpful to clearify sample size and the ratio of the outcomes.<br>
 
 # Additional Outcomes Based on Goals
